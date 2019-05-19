@@ -5,9 +5,10 @@
    "description": "A minimalist light theme for atom",
    "keywords": [
       "ui",
-      "theme"
+      "theme",
+      "light"
    ],
-   "repositury": "https://github.com/raymagalhaes/rzx-light-ui",
+   "repository": "https://github.com/raymagalhaes/rzx-light-ui",
    "license": "MIT",
    "engines": {
       "atom": ">=1.0.0 <2.0.0"
