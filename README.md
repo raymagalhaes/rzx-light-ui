@@ -5,7 +5,7 @@ This is a minimalistic light theme for Atom.
 ## How to install
 
 ```
-apm install rzx-light-syntax
+apm install rzx-light-ui
 ```
 # Screenshot
 
