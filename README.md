@@ -9,4 +9,4 @@ apm install rzx-light-ui
 ```
 # Screenshot
 
-![rzx-light-ui-screenshot](https://user-images.githubusercontent.com/15671466/57978936-742f2400-79ec-11e9-9f17-6307fb966821.png)
+![rzx-light-syntax-screenshot](https://user-images.githubusercontent.com/15671466/57981062-3e4c6880-7a09-11e9-90db-712fd35802e1.png)
